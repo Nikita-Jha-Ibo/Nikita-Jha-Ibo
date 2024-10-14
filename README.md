@@ -1,5 +1,4 @@
-[![MasterHead]
-(https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)]
+[![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)]
 
 <h1 align="center">Hi 👋, I'm Nikita Jha</h1>
 <h3 align="center">A passionate Full stack Developer from India.</h3>
@@ -8,17 +7,17 @@
 <h1 align="center">Hi 👋, I'm Nikita Jha</h1>
 <h3 align="center">A passionate Full stack Developer from India.</h3>
 
-- 🌱 I’m currently learning **Springboot, Hibernate, React.**
+- 🌱 I’m currently learning *Springboot, Hibernate, React.*
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-lovat-alpha.vercel.app/](https://react-portfolio-lovat-alpha.vercel.app/)
 
-- 💬 Ask me about **Full Stack development**
+- 💬 Ask me about *Full Stack development*
 
-- 📫 How to reach me **nikijha108@gmail.com**
+- 📫 How to reach me *nikijha108@gmail.com*
 
-📄 Know about my experience [Resume](https://drive.google.com/file/d/1aaAXSRPvrACuQpIjxXzLP-F9uU_7ZNri/view?usp=sharing)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aaAXSRPvrACuQpIjxXzLP-F9uU_7ZNri/view?usp=sharing)
 
-- ⚡ Fun fact **I love solving coding challenges in my free time! 💻🎉**
+- ⚡ Fun fact *I love solving coding challenges in my free time! 💻🎉*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
